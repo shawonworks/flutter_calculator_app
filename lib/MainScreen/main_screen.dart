@@ -54,6 +54,7 @@ class _MainScreenState extends State<MainScreen> {
                 ),
               ),
             ),
+            ///////////This is expanded widget
             Expanded(
               flex: 2,
               child: Column(
