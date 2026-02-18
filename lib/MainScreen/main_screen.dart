@@ -13,7 +13,7 @@ class _MainScreenState extends State<MainScreen> {
   var userInput = "";
   var result = "";
 
-  //=-=-=-=-=-=-=-=-=-=-=-=-This is a equal press package logic=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=//
+  //=-=-=-=-=-=-=-=-=-=-=-=-This is a equal press package logic=-=-=-=-=-=-=-=-=-=-=-=//
   void egualPress() {
     String finalUserInput = userInput;
     finalUserInput = userInput.replaceAll("x", "*");
